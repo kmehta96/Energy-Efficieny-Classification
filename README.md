@@ -1,6 +1,6 @@
 ## PROJECT REPORT
 
-## 1. Data Set Description
+## Data Set Description
 
 The heating load (HL) and the cooling load (CL) is required for speciation of the cooling and
 heating equipment when it comes to design efficient building, to maintain comfortable indoor air
@@ -41,7 +41,7 @@ In this project the aim is for classification, hence heating load is only consid
 by defining each class.
 
 
-## 9. Conclusion
+## Conclusion
 
 The aim of this project is to classify Heating Loads in the building to determine the specifications
 of the heating equipment needed to maintain comfortable indoor air conditions. The dataset
