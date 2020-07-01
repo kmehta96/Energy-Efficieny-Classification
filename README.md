@@ -92,25 +92,3 @@ input features. By using the model the heating load of the building will be obta
 to improve the performance of the equipment by proper design the product. Similar to the heating
 load, prediction or classification of the cooling load may be possible with the given dataset and
 will be considered as the future scope of the project.
-
-## 10. References
-
-1. https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
-2. A. Tsanas, A. Xifara: 'Accurate quantitative estimation of energy performance of
-    residential buildings using statistical machine learning tools', Energy and Buildings, Vol.
-    49, pp. 560-567, 2012
-3. https://scikit-learn.org/stable/
-4. https://colab.research.google.com/github/shranith/Colab-
-    intro/blob/master/Colab_intro.ipynb
-5. https://seaborn.pydata.org/
-6. https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Energy%20Efficie
-    ncy
-7. https://rstudio-pubs-
-    static.s3.amazonaws.com/244473_5d13955ea0fd4e5e9d376161b956e9dc.html
-8. European Commission, Directive 2002/91/EC of the European Parliament and of the
-    Council of 16th December 2002 on the energy performance of buildings, Official journal
-    of the European Communities, L1/65–L1/71, 04/01/2003.
-9. W.G. Cai, Y. Wu, Y. Zhong, H. Ren, China building energy consumption: situation,
-    challenges and corresponding measures, Energy Policy 37 (6) (2009) 2054– 2059.
-10. Z. Yu, F. Haghigrat, B.C.M. Fung, H. Yoshimo, A decision tree method for building energy
-    demand modeling, Energy and Buildings 42 (2010) 1637–1646.
